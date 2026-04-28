@@ -1,0 +1,4 @@
+Persona{nombre=yyyss, edad=45}
+Persona{nombre=dfh, edad=45}
+Persona{nombre=dgf, edad=645}
+Persona{nombre=er, edad=23}
